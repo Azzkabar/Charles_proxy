@@ -1,6 +1,6 @@
 # Charles_proxy
 
-When i was testing the <a href="http://demowebshop.tricentis.com/cart"> webstore cart</a>, i was using CharliProxy.
+When i was testing the <a href="http://demowebshop.tricentis.com/cart"> webstore cart</a>, i was using CharlesProxy.
 
 Check out the following videos where I change data using the proxy server for website on Google Chrome on <b> Macbook Pro </b>
 
